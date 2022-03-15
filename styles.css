@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.container0 {
+  background-color: #1f2937;
+}
+
+/* top nav */
+
+.header {
+  display: flex;
+  flex-direction: row;
+  color: white;
+
+  justify-content: space-between;
+  align-items: center;
+}
+
+.head-links {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+}
+
+ul {
+  list-style: none;
+}
+
+/* hero */
+
+/* main */
+
+/* quote-banner */
+
+/* signup-modal */
+
+/* footer */
